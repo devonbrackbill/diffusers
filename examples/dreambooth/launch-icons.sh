@@ -22,4 +22,4 @@ accelerate launch train_dreambooth.py \
   --max_train_steps=40000 \
   --save_interval=250 \
   --save_sample_prompt="black and white hyena icon" \
-  --concepts_list="concepts_list.json"
+  --concepts_list="../../res/concepts_list.json"
