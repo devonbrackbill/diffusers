@@ -1,0 +1,8 @@
+[
+    {
+        "instance_prompt": "@sunglasses-jjj beach sunny, bright lighting, sepia tone, california beach",
+        "instance_data_dir": "../../res/sunglasses/",
+        "class_prompt": "sunglasses beach sunny, bright lighting, sepia tone, california beach",
+        "class_data_dir": "../../res/sunglasses/"
+    }
+]
